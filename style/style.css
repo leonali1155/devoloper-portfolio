@@ -5,6 +5,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 .nav-titel{
     color: var(--Dark-01, #181818);
@@ -36,5 +37,18 @@ nav li{
 nav a{
     text-decoration: none;
     color: #474747;
+}
+/* hede */
+.header{
+
+}
+.banner{
+    padding:30px 30px 30px 150px;
+    display: flex;
+
+}
+.banner .profile-picture{
+    width: 500px;
+    
 
 }
